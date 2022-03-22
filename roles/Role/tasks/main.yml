@@ -1,0 +1,4 @@
+---
+# tasks file 
+- name: Ping the servers
+  ping:
